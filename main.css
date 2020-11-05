@@ -1,0 +1,42 @@
+/*Main*/
+
+body{
+    font-family: 'Roboto', Helvetica, Arial, serif;
+    text-align: justify; 
+    background-color: slategray;
+  }
+  
+  #nav-icons img {
+    width: 36px;
+    height: 36px;
+    padding-bottom: 4px;
+  }
+  
+  /*Nav*/
+  #nav-bar {
+      /*background-image:url('../images/Snowboard-banner.png');
+      background-repeat: round;*/ 
+      text-align: center; 
+      background-color: white;
+  }
+  
+  .container {
+      background-color: white;
+      /*padding:4px 7px 2px 4px;*/
+      
+  }
+  
+  #web-dev-tools img {
+      padding: 8px;
+  }
+  
+  #footer {
+      text-align:center;
+      padding-top: 12px;
+  
+  }
+  
+  #footer img {
+      width: 36px;
+      height: 36px;
+  }
